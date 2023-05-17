@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T00:16:03.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gwupvEr-ge3tNy7tk6ik" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T00:16:28.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wdoBm-OwiX-CWsMLoT8r" version="21.3.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="635" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,8 +55,8 @@
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-22" value="roughness profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="595" width="112" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-28" value="Data-driven method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="163.93" y="340" width="130" height="30" as="geometry" />
+        <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-28" value="Data-driven method" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="163.93" y="370" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-29" value="Mechanistic-based method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="340" width="170" height="30" as="geometry" />
