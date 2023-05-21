@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T23:26:38.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="K4dvrH-z5wdMKekU9jc_" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-21T23:27:52.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sFrWTejrBNq1843MDzkM" version="21.3.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1663" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-2" value="&lt;b&gt;Smartphone-mounting-vehicle system&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="331.92" y="110" width="236" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="cg_-4Gn6XDbBgUi1bZ2A-30" edge="1">
+        <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cg_-4Gn6XDbBgUi1bZ2A-3" target="cg_-4Gn6XDbBgUi1bZ2A-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="404.88000000000017" y="380" as="sourcePoint" />
           </mxGeometry>
@@ -88,7 +88,14 @@
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-18" value="Profiler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="129.93" y="675" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HsN5YrJNf_dIWxtN4Fob-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cg_-4Gn6XDbBgUi1bZ2A-22" target="cg_-4Gn6XDbBgUi1bZ2A-51">
+        <mxCell id="HsN5YrJNf_dIWxtN4Fob-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.888;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cg_-4Gn6XDbBgUi1bZ2A-22" target="cg_-4Gn6XDbBgUi1bZ2A-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="528" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HsN5YrJNf_dIWxtN4Fob-25" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cg_-4Gn6XDbBgUi1bZ2A-22" target="cg_-4Gn6XDbBgUi1bZ2A-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-22" value="roughness profile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -126,8 +133,11 @@
         <mxCell id="HsN5YrJNf_dIWxtN4Fob-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;dashed=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-30" width="160" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="HsN5YrJNf_dIWxtN4Fob-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HsN5YrJNf_dIWxtN4Fob-15" target="cg_-4Gn6XDbBgUi1bZ2A-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HsN5YrJNf_dIWxtN4Fob-15" value="&lt;b&gt;Ground-truth profiler&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386.81" y="450" width="130.23" height="20" as="geometry" />
+          <mxGeometry x="386.81" y="320" width="130.23" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HsN5YrJNf_dIWxtN4Fob-21" value="Estimated roughness profile" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="545.16" y="480" width="124.84" height="30" as="geometry" />
