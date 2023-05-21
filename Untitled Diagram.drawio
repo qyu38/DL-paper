@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T23:51:53.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qLlVF0D1Ku3bAuCl3oNN" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-21T23:52:13.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0Ccnvilpt4xb3J1tIp17" version="21.3.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2227" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1782" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,6 +43,9 @@
         </mxCell>
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-7" value="Tri-axial gyroscope" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="224.00000000000003" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HsN5YrJNf_dIWxtN4Fob-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cg_-4Gn6XDbBgUi1bZ2A-8" target="HsN5YrJNf_dIWxtN4Fob-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-8" value="smartphone GPS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="224.00000000000003" y="250" width="120" height="20" as="geometry" />
