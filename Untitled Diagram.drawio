@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T23:56:28.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EfhEPq9eKtPnEzJx8XkH" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-21T23:59:08.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Esh1olw4Imxv3duLGSHr" version="21.3.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1635" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1782" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,17 +54,21 @@
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="cg_-4Gn6XDbBgUi1bZ2A-7" target="cg_-4Gn6XDbBgUi1bZ2A-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180.00000000000003" y="220" />
-              <mxPoint x="180.00000000000003" y="380" />
-              <mxPoint x="214.00000000000003" y="380" />
+              <mxPoint x="180" y="223" />
+              <mxPoint x="180" y="380" />
+              <mxPoint x="214" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-7" value="Tri-axial gyroscope" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="224.00000000000003" y="210" width="120" height="20" as="geometry" />
+          <mxGeometry x="224.00000000000003" y="212.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HsN5YrJNf_dIWxtN4Fob-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cg_-4Gn6XDbBgUi1bZ2A-8" target="HsN5YrJNf_dIWxtN4Fob-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cg_-4Gn6XDbBgUi1bZ2A-8" value="smartphone GPS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="224.00000000000003" y="250" width="120" height="20" as="geometry" />
@@ -185,6 +189,9 @@
         </mxCell>
         <mxCell id="HsN5YrJNf_dIWxtN4Fob-39" value="estimated IRI" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="406.93" y="490" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HsN5YrJNf_dIWxtN4Fob-55" value="&amp;nbsp;synchronization" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="245" width="100" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
