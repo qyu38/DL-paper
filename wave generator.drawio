@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T10:20:31.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3du5aDaSCU7k-W5vuo1h" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T10:20:43.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2GGte1VYdrxDx3nornUP" version="22.1.16" type="github">
   <diagram name="Page-1" id="-eMpOVEWGyke3WGTZZot">
     <mxGraphModel dx="724" dy="1597" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,8 +48,8 @@
             <mxPoint x="423.0857282366071" y="402.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="syNTxDQ9dA7czl0h41md-39" value="accelerometer" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="315" y="394" width="78" height="15" as="geometry" />
+        <mxCell id="syNTxDQ9dA7czl0h41md-39" value="Accelerometer" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="319" y="394" width="74" height="15" as="geometry" />
         </mxCell>
         <mxCell id="syNTxDQ9dA7czl0h41md-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;Smartphone&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="468" y="329" width="62" height="13" as="geometry" />
